@@ -25,7 +25,7 @@ In this challenge, create a web API around the following resources: `Projects` a
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] Mention two parts of Express that you learned about this week.
-- Express allows for middlware
+- Express allows for middleware
 - Express supports REST
 - [ ] Describe Middleware?
 - Middleware describes layered processes that happen sequentially
